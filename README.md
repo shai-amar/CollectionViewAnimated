@@ -30,8 +30,8 @@ SAViewController.m
 Screenshots
 ============
 
-![screenshot 1](https://github.com/shai-amar/CollectionViewAnimated/blob/master/screenshot1.png)
+![screenshot 1](https://github.com/shai-amar/CollectionViewAnimated/blob/master/screenshot1.png?raw=true)
 
-![screenshot 2](https://github.com/shai-amar/CollectionViewAnimated/blob/master/screenshot2.png)
+![screenshot 2](https://github.com/shai-amar/CollectionViewAnimated/blob/master/screenshot2.png?raw=true)
 
 
